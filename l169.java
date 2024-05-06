@@ -2,6 +2,7 @@ public class l169 {
 
     public static int majorityElement(int[] nums){
         
+        return 0;
     }
 
     public static void main(String[] args) {
